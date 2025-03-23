@@ -49,7 +49,7 @@ namespace CarLotSimulator
                 //HonkNoise = "Kaboom",//not necessary per this object's own syntax -- it gets defined and called all at once through a custom crafted method.
                 IsDriveable = true,
                 Mileage = 68453,
-                AverageMilesPerGallon = 8.521,
+                AverageMilesPerGallon = 8.521
             };
 
             Console.WriteLine($"Endtroducing the {carTwo.Year} {carTwo.Make} {carTwo.Model}.");
